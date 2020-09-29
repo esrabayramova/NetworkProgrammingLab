@@ -8,7 +8,7 @@ Between 12:00 and 17:00 the maximum wait time must be 2 seconds and the exponent
 
 Between 17:00 and 23:59 the maximum wait time must be 4 seconds and the exponential backoff must be increased by 3 in each iteration.
 
-Between 23:59 and 12::00 of the next day the maximum wait time must be 1 second and the exponential backoff must be increased by 2 in each iteration.
+Between 23:59 and 12:00 of the next day the maximum wait time must be 1 second and the exponential backoff must be increased by 2 in each iteration.
 
 ## Installation
 
