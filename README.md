@@ -12,6 +12,10 @@ Between 23:59 and 12:00 of the next day the maximum wait time must be 1 second a
 
 ## Installation
 
+```
+git clone https://github.com/esrabayramova/NetworkProgrammingLab
+```
+
 ## Usage
 
 Firstly, two terminals are opened, one for the server and one for the client. After writing 'python3' and specifying the name of the file, the role must be shown - either client or server. The next thing is to type the hostname of the machine or the word 'localhost'. Another thing that is necessary for this program is the port number. However, in the code, the default port number is selected and it is not required to write. But if you want to use any particular port, you can write it by typing '-p' before this port number.  Here is an example:
